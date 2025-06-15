@@ -360,7 +360,7 @@
     "introduction": "バーチャル陶芸家。ろくろを回しながら雑談したり、作った作品でゲームのアイテムを再現したりする。",
     "image_url": "https://kagekin.github.io/TOKKAV/img/tokka_v_028.png",
     "stream_examples": "[\"ろくろ雑談配信\", \"作った湯呑で一休み\", \"ゼルダの伝説の壺を再現してみた\"]",
-    "attributes": "{\"genre\":\"アート\", \"worldview\":\"現代\", \"personality\":\"穏やか\", \"body_parts":"人間\", \"stream_style\":\"雑談\", \"aura\":\"科学\"}",
+    "attributes": "{\"genre\":\"アート\", \"worldview\":\"現代\", \"personality\":\"穏やか\", \"body_parts\":\"人間\", \"stream_style\":\"雑談\", \"aura\":\"科学\"}",
     "rarity": "Normal"
   },
   {
@@ -1559,4 +1559,4 @@
     "attributes": "{\"genre\":\"ミステリー\", \"worldview\":\"現代\", \"personality\":\"妖艶\", \"body_parts\":\"人間\", \"stream_style\":\"考察\", \"aura\":\"神秘\"}",
     "rarity": "S-Rare"
   }
-]
+];
